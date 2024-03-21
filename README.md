@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Omer</h1>
-<h3 align="center">A passionate Machine Learning Enginee and Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Sign Language Conversion**
+- 🔭 I’m currently working on **Chatbots**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/abhinavomer](linktr.ee/abhinavomer)
 
