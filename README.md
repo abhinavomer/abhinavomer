@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/abhinavomer](linktr.ee/abhinavomer)
+- 👨‍💻 All of my projects are available at https://abhinavomer.netlify.app/
 
 - 💬 Ask me about **Machine learning**
 
