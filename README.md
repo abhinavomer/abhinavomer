@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Omer</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavomer" alt="abhinavomer" /></a> </p>
 
 - 🔭 I’m currently working on **Chatbots**
 
@@ -14,6 +13,8 @@
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **abhinavomer.ao8@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavomer" alt="abhinavomer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
