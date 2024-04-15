@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Chatbots**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Data Science & ML Projects**
 
