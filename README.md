@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinavomer.netlify.app/](https://abhinavomer.netlify.app/)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **abhinavomer.ao8@gmail.com**
 
