@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-- 🔭 I’m currently working on **Django Based Projects**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on **Data Science & ML Projects**
 
